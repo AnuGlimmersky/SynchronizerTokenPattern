@@ -12,5 +12,5 @@ Upload and deploy the generated Target/SynchronizerTokenPattern.war with Tomcat
 Start the Tomcat server and navigate to the broswer using this url :http://localhost:8080/SynchronizerTokenPattern/ 
 
 # Login
-Username: username
+Username: admin
 Password: admin
